@@ -1,0 +1,2 @@
+Exploring AIOps
+- AIOps is a word you'll start hearing a lot, both now and in the future, and for good reason. Artificial intelligence for ITOps will drastically change the IT operations landscape by adding new functionality to existing models and optimize all the computer systems we have around us today. For this course, I've invited two AIOps experts to help me explore what AI ops means, both in terms of definition and in terms of how it manifests in the real world. Let's get cracking.
