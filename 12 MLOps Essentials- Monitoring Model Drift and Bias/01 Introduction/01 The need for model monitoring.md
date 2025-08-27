@@ -1,0 +1,2 @@
+The need for model monitoring
+- In machine learning, monitoring your models is critical to ensure that models continue to perform in production with expected levels of accuracy and fairness. So in this LinkedIn Learning course, we will discuss the basics of ensuring that drift and bias don't creep into the models you are building. We will also work on a couple of exercises to show how this can be done well. I'm Kumaran Ponnambalam. If you are a data scientist or a machine learning engineer, monitoring is an essential skill for you to have. So let's get started.
