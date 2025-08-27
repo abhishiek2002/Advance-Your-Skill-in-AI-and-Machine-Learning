@@ -1,0 +1,2 @@
+Other RL algorithms
+- [Instructor] The Monte Carlo and temporal difference methods form the baseline to the many advanced reinforcement learning algorithms, which are all modifications of the Bellman equation. They include better ways of storing the agent's rewards, states, and actions as in deep reinforcement learning, agents learning by imitating other AI agents as in inverse reinforcement learning, or agents learning alongside other agents as in multi-agent reinforcement learning.
