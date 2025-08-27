@@ -1,0 +1,2 @@
+Next steps
+- This course has been about AI technology but it's also been about emotions. I'm sorry to see you go, but I am excited that you're going to be jumping into the Copilot stack. Just download Semantic Kernel. We have a chat reference apps, deploy it, customize it, try it with a user base, optimize it, and get ready to scale responsibly. I hope you collaborate with your users as soon as possible. You're going to learn a lot from them and I hope to learn a lot with you.

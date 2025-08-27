@@ -1,0 +1,2 @@
+Designing for AI
+- When I talk with businesses using this new kind of AI, they all inevitably ask how do we make an incredible UX using this copilot stack? Well, the answer isn't a pretty UX, it's a collaborative UX. In my course, I'm going to walk you through seven essential principles to use the copilot stack in real world applications for real people, not just developers. Hi, I'm John Maeda, VP of Design and AI at Microsoft. This new kind of AI UX is nothing like we've seen in the past. Come and join me.
