@@ -1,0 +1,2 @@
+Next steps
+- Now that you have learned about model monitoring for drift and bias, you can take your learning even further. First, explore the products and packages available for drift and bias monitoring which we listed in the course. Second, try building a drift and bias monitoring system for a model in your organization. AI always intrigues me. I bet it intrigues you too. So let's keep exploring it and find better ways of extracting knowledge out of it.

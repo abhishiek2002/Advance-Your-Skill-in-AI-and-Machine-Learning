@@ -1,0 +1,2 @@
+Continuing on with MLOps
+- [Kumaran] Now that you have learned about the concepts of MLOps for deployment and monitoring, you can take your learning even further. Explore specific tools and technologies discussed in this course. Get a copy or free license and experiment with them. Implement the MLOps pipeline in your organization using the learnings from this course. Machine learning always intrigues me. I bet it intrigues you too. So let's keep exploring it and find better ways of extracting benefits out of it.
